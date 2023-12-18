@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/deeproy1692" target="blank"><img src="https://img.shields.io/twitter/follow/deeproy1692?logo=twitter&style=for-the-badge" alt="deeproy1692" /></a> </p>
 
-- 🔭 I’m currently working on **An online learning management system**
+- 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Node JS**
 
 - 📫 How to reach me **royd5333@gmail.com**
 
