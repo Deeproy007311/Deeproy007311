@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Node JS, Express JS, Mongo DB**
 
 - 📫 How to reach me **royd5333@gmail.com**
 
