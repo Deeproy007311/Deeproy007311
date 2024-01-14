@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Deep Roy</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A MERN developer from India</h3>
 <img  align="right" src="https://camo.githubusercontent.com/9b64cdf5bde24e837b1944a8be49ad4f7d171f9ca0230ed8fc5b6893ba6a96e8/68747470733a2f2f6d656469612e74656e6f722e636f6d2f61776477526b624a7a436741414141432f676f6b752e676966" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeproy007311&label=Profile%20views&color=0e75b6&style=flat" alt="deeproy007311" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deeproy1692" target="blank"><img src="https://img.shields.io/twitter/follow/deeproy1692?logo=twitter&style=for-the-badge" alt="deeproy1692" /></a> </p>
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **LMS**
 
 - 🌱 I’m currently learning **Node JS, Express JS, Mongo DB**
 
