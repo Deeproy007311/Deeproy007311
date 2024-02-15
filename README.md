@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/deeproy1692" target="blank"><img src="https://img.shields.io/twitter/follow/deeproy1692?logo=twitter&style=for-the-badge" alt="deeproy1692" /></a> </p>
 
-- 🔭 I’m currently working on **LMS**
+- 🔭 I’m currently working on **Social Media Website**
 
 - 🌱 I’m currently learning **Node JS, Express JS, Mongo DB**
 
